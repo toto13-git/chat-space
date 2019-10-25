@@ -28,6 +28,7 @@
 
   .groups {
     height: calc(100vh - 100px);
+    box-sizing: border-box;
     background-color: $color-bg-g-li;
     padding: 0 20px;
     .group {
